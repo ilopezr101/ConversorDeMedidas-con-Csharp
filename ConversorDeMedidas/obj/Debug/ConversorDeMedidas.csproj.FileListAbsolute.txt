@@ -1,0 +1,10 @@
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.exe.config
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.exe
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.pdb
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csprojAssemblyReference.cache
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.Form1.resources
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.Properties.Resources.resources
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.GenerateResource.cache
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.CoreCompileInputs.cache
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.exe
+E:\Proyecto_CSharp\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.pdb
